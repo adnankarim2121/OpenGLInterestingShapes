@@ -19,3 +19,5 @@ g++ 5.4.0 20160609
 
 Please note:
 When working on this at home, I had to change the openGL core version from 4.1 to 3.3. By doing that, I also had to change the version numbers in fragment.glsl and vertex.glsl from  #410 to #330. 
+
+Also, you must have glad, glfw, glm, and stb installed on your Operating System. Otherwise this program will not run. 
